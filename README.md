@@ -46,4 +46,4 @@ A results-driven **Data Scientist, Research Statistician, and Data Analyst** wit
 ### 📫 Connect with Me
 - 📧 **Email:** hasan.statx@gmail.com
 - 💼 **LinkedIn:** [www.linkedin.com/in/hasan-mahmud-sujan]
-- 🌐 **ResearchGate:** [[Your Scholar Link](https://www.researchgate.net/profile/Hasan-Mahmud-Sujan)]
+- 🌐 **ResearchGate:** [[Hasan Mahmud Sujan](https://www.researchgate.net/profile/Hasan-Mahmud-Sujan)]
