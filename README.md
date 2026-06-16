@@ -1,4 +1,4 @@
-# Hi there, I'm Hasan Mahmud Sujan 👋
+# Hi there, I'm Hasan Mahmud Sujan 
 
 A results-driven **Data Scientist, Research Statistician, and Data Analyst** with over 7 years of professional experience transforming large-scale datasets into strategic insights and actionable solutions. 
 
